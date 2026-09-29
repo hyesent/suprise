@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "chapter": "KAPITEL"
+  },
+  "countdown": {
+    "days": "DAGE",
+    "hours": "TIMER",
+    "minutes": "MINUTTER",
+    "seconds": "SEKUNDER",
+    "subtitle": "En lille ting til dig.",
+    "leaveWish": "EFTERLAD EN HILSEN",
+    "tapToBegin": "TRYK FOR AT BEGYNDE"
+  },
+  "invitation": {
+    "before": "Før dagen kommer...",
+    "thinking": "er der allerede nogen, der tænker på dig.",
+    "button": "EFTERLAD EN HILSEN TIL MARTIN"
+  },
+  "wishForm": {
+    "title": "Efterlad noget til Martin",
+    "name": "Dit navn",
+    "message": "Din besked",
+    "photo": "Tilføj et billede (valgfrit)",
+    "submit": "SEND DIN HILSEN",
+    "thanks": "Din besked er nu en del af Martins fødselsdag.",
+    "pending": "Den vises, når den er godkendt."
+  },
+  "wishWall": {
+    "count_one": "{{count}} person har efterladt noget til Martin",
+    "count_other": "{{count}} personer har efterladt noget til Martin",
+    "empty": "Væggen venter på sin første hilsen."
+  },
+  "discoveries": {
+    "title": "Tre ting at opdage",
+    "wish": "ET ØNSKE",
+    "message": "EN BESKED",
+    "fromEveryone": "FRA ALLE",
+    "close": "LUK",
+    "tapHint": "Tryk for at åbne"
+  },
+  "photos": {
+    "moment": "Et øjeblik værd at huske.",
+    "more": "Skål for mange flere øjeblikke som dette."
+  },
+  "wishes": {
+    "title": "MINE ØNSKER FOR DIT NYE ÅR",
+    "health": "GODT HELBRED",
+    "people": "GODE MENNESKER",
+    "experiences": "GODE OPLEVELSER",
+    "peace": "FRED",
+    "smile": "MANGE GRUNDE TIL AT SMILKE",
+    "days": "OG EN MASSE GODE DAGE FORUDE"
+  },
+  "birthday": {
+    "happy": "TILLYKKE MED FØDSELSDAGEN, MARTIN",
+    "date": "30. SEPTEMBER 2026",
+    "today": "I DAG ER DIN DAG."
+  },
+  "everyone": {
+    "title": "OG DU VAR IKKE ALENE OM AT FEJRE.",
+    "count_one": "{{count}} person efterlod dig noget",
+    "count_other": "{{count}} personer efterlod dig noget"
+  },
+  "message": {
+    "text": "Jeg ville lave noget lidt anderledes til dig i år. Jeg håber, du får en virkelig god fødselsdag, og at året forude bringer masser af gode øjeblikke, gode oplevelser og grunde til at være glad."
+  },
+  "finale": {
+    "happy": "TILLYKKE MED FØDSELSDAGEN, MARTIN",
+    "date": "30.09.2026",
+    "thanks": "Tak fordi du var en del af oplevelsen."
+  },
+  "ps": {
+    "ps": "PS...",
+    "wondering": "Du undrer dig måske over, hvem der har lavet alt dette.",
+    "name": "MICHAEL HYACINTH",
+    "tagline": "Jeg bygger digitale produkter, apps og oplevelser.",
+    "cta": "SE HVAD JEG BYGGER",
+    "back": "Tilbage til oplevelsen",
+    "projectsTitle": "Et par ting jeg har bygget",
+    "projects": {
+      "zephye": {
+        "name": "Zephye",
+        "desc": "En smart vejrkompagnon, der forvandler live vejrdata til en mere personlig og interaktiv oplevelse.",
+        "url": "https://zephye.vercel.app"
+      },
+      "hyezen": {
+        "name": "Hyezen",
+        "desc": "En AI-drevet stemmeassistent bygget til at forstå, svare og hjælpe gennem naturlig samtale.",
+        "url": "#"
+      },
+      "discypln": {
+        "name": "Discypln",
+        "desc": "En fokuseret produktivitets- og selvudviklingsapp designet til at hjælpe brugere med at opbygge konsistens og holde sig på sporet.",
+        "url": "https://discypln.vercel.app"
+      },
+      "hyeScriptures": {
+        "name": "HyeScriptures",
+        "desc": "En andagtsoplevelse, der kombinerer skrift, refleksion og interaktive funktioner til daglig åndelig engagement.",
+        "url": "https://hye-scriptures.vercel.app"
+      },
+      "hyeSpace": {
+        "name": "HyeSpace",
+        "desc": "Det centrale hjem for Hye-produkter, der samler apps, konti, abonnementer og digitale oplevelser ét sted.",
+        "url": "https://hyespace.vercel.app"
+      }
+    }
+  },
+  "wishesText": {
+    "mum": "Til min kære mand og kærlighed, jeg er så taknemmelig for at have dig i mit liv. Jeg ønsker dig mange år i godt helbred og velstand. Tillykke med fødselsdagen, min elskede.",
+    "family": "Tillykke med fødselsdagen til vores kære far og mand. Må du få en vidunderlig fødselsdag i godt helbred og langt liv.",
+    "alex": "Tillykke med fødselsdagen, Martin. Vi har ikke altid været tætte, men du har stadig været en faderfigur i mit liv, og det er jeg taknemmelig for. Jeg håber, du får en rigtig god dag og et år fyldt med helbred, fred og gode øjeblikke.",
+    "michael": "Tillykke med fødselsdagen, Martin. Tak fordi du har været en stabil tilstedeværelse gennem årene. Du behøvede ikke at være det, men du var — og det betyder noget. Jeg ønsker dig en vidunderlig fødselsdag og et godt år forude.",
+    "sylvia": "Tillykke med fødselsdagen, Martin. Du har på din egen måde været som en far for os, og det værdsætter jeg mere, end jeg nok siger. Jeg håber, at dette år bringer dig godt helbred, lykke og mange grunde til at smile."
+  },
+  "sound": {
+    "on": "LYD TIL",
+    "off": "LYD FRA"
+  },
+  "lang": {
+    "en": "EN",
+    "da": "DA"
+  }
+}

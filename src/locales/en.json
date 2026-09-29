@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "chapter": "CHAPTER"
+  },
+  "countdown": {
+    "days": "DAYS",
+    "hours": "HOURS",
+    "minutes": "MINUTES",
+    "seconds": "SECONDS",
+    "subtitle": "A little something for you.",
+    "leaveWish": "LEAVE A WISH",
+    "tapToBegin": "TAP TO BEGIN"
+  },
+  "invitation": {
+    "before": "Before the day arrives...",
+    "thinking": "there are already people thinking of you.",
+    "button": "LEAVE MARTIN A WISH"
+  },
+  "wishForm": {
+    "title": "Leave something for Martin",
+    "name": "Your name",
+    "message": "Your message",
+    "photo": "Add a photo (optional)",
+    "submit": "SEND YOUR WISH",
+    "thanks": "Your message is now part of Martin's birthday.",
+    "pending": "It will appear once approved."
+  },
+  "wishWall": {
+    "count_one": "{{count}} person has left something for Martin",
+    "count_other": "{{count}} people have left something for Martin",
+    "empty": "The wall is waiting for its first wish."
+  },
+  "discoveries": {
+    "title": "Three things to discover",
+    "wish": "A WISH",
+    "message": "A MESSAGE",
+    "fromEveryone": "FROM EVERYONE",
+    "close": "CLOSE",
+    "tapHint": "Tap to open"
+  },
+  "photos": {
+    "moment": "A moment worth remembering.",
+    "more": "Here's to many more moments like this."
+  },
+  "wishes": {
+    "title": "MY WISHES FOR YOUR NEW YEAR",
+    "health": "GOOD HEALTH",
+    "people": "GOOD PEOPLE",
+    "experiences": "GOOD EXPERIENCES",
+    "peace": "PEACE",
+    "smile": "MANY REASONS TO SMILE",
+    "days": "AND A LOT OF GOOD DAYS AHEAD"
+  },
+  "birthday": {
+    "happy": "HAPPY BIRTHDAY, MARTIN",
+    "date": "30 SEPTEMBER 2026",
+    "today": "TODAY IS YOUR DAY."
+  },
+  "everyone": {
+    "title": "AND YOU WEREN'T CELEBRATING ALONE.",
+    "count_one": "{{count}} person left you something",
+    "count_other": "{{count}} people left you something"
+  },
+  "message": {
+    "text": "I wanted to make you something a little different this year. I hope you have a genuinely great birthday, and that the year ahead brings you plenty of good moments, good experiences and reasons to be happy."
+  },
+  "finale": {
+    "happy": "HAPPY BIRTHDAY, MARTIN",
+    "date": "30.09.2026",
+    "thanks": "Thank you for being part of the experience."
+  },
+  "ps": {
+    "ps": "PS...",
+    "wondering": "You might be wondering who made all this.",
+    "name": "MICHAEL HYACINTH",
+    "tagline": "I build digital products, apps and experiences.",
+    "cta": "SEE WHAT I BUILD",
+    "back": "Back to the experience",
+    "projectsTitle": "A few things I've built",
+    "projects": {
+      "zephye": {
+        "name": "Zephye",
+        "desc": "A smart weather companion that turns live weather data into a more personal, interactive experience.",
+        "url": "https://zephye.vercel.app"
+      },
+      "hyezen": {
+        "name": "Hyezen",
+        "desc": "An AI-powered voice assistant built to understand, respond, and help through natural conversation.",
+        "url": "#"
+      },
+      "discypln": {
+        "name": "Discypln",
+        "desc": "A focused productivity and self-improvement app designed to help users build consistency and stay on track.",
+        "url": "https://discypln.vercel.app"
+      },
+      "hyeScriptures": {
+        "name": "HyeScriptures",
+        "desc": "A devotional experience combining scripture, reflection, and interactive features for daily spiritual engagement.",
+        "url": "https://hye-scriptures.vercel.app"
+      },
+      "hyeSpace": {
+        "name": "HyeSpace",
+        "desc": "The central home for Hye products, bringing apps, accounts, subscriptions, and digital experiences together in one place.",
+        "url": "https://hyespace.vercel.app"
+      }
+    }
+  },
+  "wishesText": {
+    "mum": "To my dear husband and love, I am so grateful for having you in my life. I wish you many years in good health and prosperity. Happy birthday, my love.",
+    "family": "Happy birthday to our dear loving Father and Husband. May you have a wonderful birthday in good health and long life.",
+    "alex": "Happy birthday, Martin. We haven't always been close, but you've still been a father figure in my life, and I'm grateful for that. I hope you have a really good day and a year filled with health, peace and good moments.",
+    "michael": "Happy birthday, Martin. Thank you for being a steady presence over the years. You didn't have to be, but you were — and that means something. Wishing you a wonderful birthday and a good year ahead.",
+    "sylvia": "Happy birthday, Martin. You've been like a father to us in your own way, and I appreciate that more than I probably say. I hope this year brings you good health, happiness and many reasons to smile."
+  },
+  "sound": {
+    "on": "SOUND ON",
+    "off": "SOUND OFF"
+  },
+  "lang": {
+    "en": "EN",
+    "da": "DA"
+  }
+}
